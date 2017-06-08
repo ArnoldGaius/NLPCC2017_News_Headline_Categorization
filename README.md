@@ -6,7 +6,7 @@ You Can get it [GuideLine](https://github.com/ArnoldGaius/NLPCC2017_Task2_News_H
 
 训练/测试集下载 Train/Test DataSets Download
 ==============================
-You Can get it [Here](https://pan.baidu.com/s/1qXYzB5a)
+You Can get it [Here](https://pan.baidu.com/s/1qXYzB5a) Click **下载** to Download it
 
 **Train Data Format**
 
