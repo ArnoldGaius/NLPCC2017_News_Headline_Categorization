@@ -46,6 +46,7 @@ Train
 Test
 ![image](https://github.com/ArnoldGaius/NLPCC2017_Task2_News_Headline_Categorization/blob/master/image/Test.png)
 
-
+更多的结果表示方法我已经放在[Text_Classifier用于文本预测分类](https://github.com/ArnoldGaius/Text_Classifier)中，可以直接pip安装使用。
+You can get other represent of prediction at [Text_Classifier](https://github.com/ArnoldGaius/Text_Classifier)
 
 
