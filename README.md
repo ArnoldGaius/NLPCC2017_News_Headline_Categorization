@@ -20,7 +20,8 @@ You Can get it [Here](https://pan.baidu.com/s/1qXYzB5a) Click **下载** to Down
 解题思路 Solving ideas 
 ============================== 
 - 文本Text去除停用词 cut Text and drop stop_words
-- 使用Tf-idf计算词向量值，建立词向量表示矩阵 construct Word Vector Matrix by calculating word vector number using Tf-idf
+- 使用Tf-idf计算词向量值，建立词向量表示矩阵 construct Word Vector Matrix by calculating word vector number using Tf-idf<br>
+**It is worth mentioning that: if there are too many features, sparse matrix can help you save a lot of memory**
 - 建立模型 creat Model <br>
 **I tried many Models(svm、cnn、logisticRegression，etc.) on this task but `FINALLY` I chosed MultinomialNB just because it cost least time and got high precision recall and F1-score**
 - 预测结果 predict
